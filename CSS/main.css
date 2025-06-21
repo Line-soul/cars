@@ -147,8 +147,11 @@ section {
 /* Contact */
 .contact {
     background: linear-gradient(135deg, #1e1e2f, #43436a);
+    border-radius: 1rem;
     color: #fff;
     text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .contact h2 {
